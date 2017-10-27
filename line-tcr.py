@@ -15,7 +15,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" Chivas Bot
+helpMessage =""" Mr.J B0ooOoot
 [Id︎]
 [Mid]
 [Me︎]
@@ -76,7 +76,7 @@ Bmid = kk.getProfile().mid
 Cmid = kc.getProfile().mid
 
 Bots=[mid,Amid,Bmid,Cmid]
-admin=["YOUR_MID_HERE"]
+admin=["u2b457b1ef8391ee451c9a22c835e1e33","u880ee16541e4a34cd0f0dfc6a7e64833","u9cd8087eecc1de702fbb2a00dcd99d45"]
 wait = {
     'contact':True,
     'autoJoin':True,
